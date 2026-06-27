@@ -1,7 +1,7 @@
 # my-project-azure
 assignment
 
-MDCopyAzure Free Tier Account Setup — Complete Documentation
+Azure Free Tier Account Setup — Complete Documentation
 
 ProLaunch Careers × Afriment | Cohort 19 | Team HACK
 Cloud Computing Track | Azure Free Tier Assignment
